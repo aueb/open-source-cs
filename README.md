@@ -6,11 +6,13 @@ This is a curated list of free courses from reputable universities like MIT, Sta
 
 ## Computer Science Basics
 
-Courses | School | Duration | Effort | Frequency | Prerequisites
-:-- | :--: | :--: | :--: | :--: | :--:
+Courses | School | Duration | Effort | Frequency | Prerequisites | Notes 
+:-- | :--: | :--: | :--: | :--: | :--:| :--:
 [Intro to Computer Science](https://www.udacity.com/course/intro-to-computer-science--cs101) | UVA | 12 week | 5 hours/week | self-paced | none
 [Mathematical Thinking in Computer Science](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fwhat-is-a-proof) | UC San Diego | 6 weeks | 2-5 hours/week | once a month | none
-
+[Softwaretechnik 1, Vorlesung, SS 2017](https://www.youtube.com/watch?v=9tb6BWLAsIE&list=PLfk0Dfh13pBN-QTjtWl4oNOu5qStyvMRz) | [Karlsruher Institut für Technologie (KIT), Institut für Programmstrukturen und Datenorganisation](https://ps.ipd.kit.edu/index.php) | 26 weeks | 2 hours/week | selfpaced | german
+[KIT Programmieren, Vorlesung, WS 2018/19](https://www.youtube.com/playlist?list=PLfk0Dfh13pBMZa4rJWYaR8HRQLJyHT5Vy) | [Karlsruher Institut für Technologie (KIT), Institut für Programmstrukturen und Datenorgansiation](https://sdq.ipd.kit.edu/home/) | just running | 2 hours/week | weekly | german
+:-- | :--: | :--: | :--: | :--: | :--:
 ## Programming
 ### Java
 Courses | School | Duration | Effort | Frequency | Prerequisites
